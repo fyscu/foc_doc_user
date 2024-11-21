@@ -18,12 +18,14 @@ layout:
     visible: true
 ---
 
-# Welcome
+# 欢迎！
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+欢迎浏览“云上飞扬”小程序的使用手册，本手册将引导您使用“云上飞扬”小程序的“报修”、“信息修改”、活动报名“等功能
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+为便于讲述，后续一律以“飞扬”来代指“云上飞扬小程序”
 
-### Jump right in
+### 快速浏览
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>注册账户</strong></td><td>进入小程序的第一步</td><td></td><td></td><td><a href="user/reg.md">reg.md</a></td></tr><tr><td><strong>发起报修</strong></td><td>体验我们最核心的功能</td><td></td><td></td><td><a href="repair/new.md">new.md</a></td></tr><tr><td><strong>活动报名</strong></td><td>参与飞扬的众多活动</td><td></td><td></td><td><a href="event/reg.md">reg.md</a></td></tr></tbody></table>
+
+您也可以点击左侧的菜单栏，快速获取需要的帮助。也可以点击下方链接，开始逐级浏览手册！

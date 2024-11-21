@@ -1,8 +1,8 @@
 ---
-icon: bullseye-arrow
+icon: user-check
 ---
 
-# Quickstart
+# 新用户注册
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 

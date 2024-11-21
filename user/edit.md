@@ -1,8 +1,8 @@
 ---
-icon: globe-pointer
+icon: user-pen
 ---
 
-# Publish your docs
+# 用户信息编辑
 
 Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
 
