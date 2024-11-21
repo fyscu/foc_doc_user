@@ -12,13 +12,10 @@ icon: info
 
 ## 制作团队
 
-| | | |
-| :------------------------------------------------------: | :-----: | :--------: |
-| <img src="https://lab.feiyang.ac.cn/images/huzongyao.jpg" alt="胡宗尧" /> | 胡宗尧 | 小程序开发 |
-| <img src="https://cdn.wjlo.cc/br/picture/wjlavatar.png" alt="王嘉麟" /> | 王嘉麟 | 后端开发 |
-| <img src="https://www.ljm.im/avatar/512.png" alt="林峻茗" /> | 林峻茗 | 管理后台开发 |
+<table><thead><tr><th width="133" align="center">头像</th><th align="center">姓名</th><th align="center">负责</th></tr></thead><tbody><tr><td align="center"><img src=".gitbook/assets/b_56914c0c3f4d3db948acacbb842b1ecd.jpg" alt="胡宗尧" data-size="original"></td><td align="center">胡宗尧</td><td align="center">小程序开发</td></tr><tr><td align="center"><img src="https://cdn.wjlo.cc/br/picture/wjlavatar.png" alt="王嘉麟" data-size="original"></td><td align="center">王嘉麟</td><td align="center">后端开发</td></tr><tr><td align="center"><img src="https://www.ljm.im/avatar/512.png" alt="林峻茗" data-size="original"></td><td align="center">林峻茗</td><td align="center">管理后台开发</td></tr></tbody></table>
 
 Powered By 2024 四川大学飞扬俱乐部研发部
-- 飞扬俱乐部： <https://fyscu.com>
-- 飞扬俱乐部研发部： <https://lab.fyscu.com>
-- 源码仓库：<https://github.com/fyscu/foc_fe>
+
+* 飞扬俱乐部： [https://fyscu.com](https://fyscu.com)
+* 飞扬俱乐部研发部： [https://lab.fyscu.com](https://lab.fyscu.com)
+* 源码仓库：[https://github.com/fyscu/foc\_fe](https://github.com/fyscu/foc\_fe)
