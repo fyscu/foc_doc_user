@@ -1,6 +1,7 @@
 # Table of contents
 
 * [欢迎！](README.md)
+* [云上飞扬简介](info.md)
 
 ## 用户系统 <a href="#user" id="user"></a>
 
