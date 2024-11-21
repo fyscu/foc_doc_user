@@ -13,7 +13,8 @@
 
 * [报修系统简介](repair/info.md)
 * [发起报修工单](repair/new.md)
-* [管理报修工单](repair/editticket.md)
+* [查看当前工单](repair/editticket.md)
+* [查看历史工单](repair/history.md)
 
 ## 活动系统 <a href="#event" id="event"></a>
 
