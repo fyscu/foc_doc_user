@@ -14,15 +14,15 @@ icon: user-plus
 
 1. 点击右下角“我的”栏，点击登录按钮
 
-<figure><img src="../.gitbook/assets/QQ_1732194066723 (1).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732194066723 (1).png" alt="" width="187"><figcaption></figcaption></figure>
 
 2. 输入手机号及验证码，完成手机号绑定
 
-<figure><img src="../.gitbook/assets/QQ_1732194270191.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732194270191.png" alt="" width="188"><figcaption></figcaption></figure>
 
 3. 核验通过后，完善必须的基本信息
 
-<figure><img src="../.gitbook/assets/QQ_1732194534097.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732194534097.png" alt="" width="188"><figcaption></figcaption></figure>
 
 注：目前仅支持“望江、江安、华西”三个校区的同学注册
 

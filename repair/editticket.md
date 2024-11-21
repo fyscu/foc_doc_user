@@ -8,7 +8,7 @@ icon: calendar-lines-pen
 
 一个标准的报修工单详情页面如下：
 
-<figure><img src="../.gitbook/assets/QQ_1732219837745.png" alt="" width="374"><figcaption><p>一个标准工单详情页</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732219837745.png" alt="" width="187"><figcaption><p>一个标准工单详情页</p></figcaption></figure>
 
 其包含的内容有：
 

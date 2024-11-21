@@ -8,11 +8,11 @@ icon: note-sticky
 
 请于主页点击“我要报修”的蓝色按钮，进入报修流程。
 
-<figure><img src="../.gitbook/assets/QQ_1732218377541.png" alt="" width="374"><figcaption><p>请您仔细阅读并理解我们的维修政策</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732218377541.png" alt="" width="187"><figcaption><p>请您仔细阅读并理解我们的维修政策</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/QQ_1732218461458.png" alt="" width="375"><figcaption><p>于顶部完善您的个人联系信息（至关重要）</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732218461458.png" alt="" width="188"><figcaption><p>于顶部完善您的个人联系信息（至关重要）</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/QQ_1732218506646.png" alt="" width="375"><figcaption><p>接下来完善您的故障信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732218506646.png" alt="" width="188"><figcaption><p>接下来完善您的故障信息</p></figcaption></figure>
 
 注：
 
@@ -28,7 +28,7 @@ icon: note-sticky
 
 提交成功后，会自动返回首页，届时您将在首页最上端看到您刚刚创建的工单。
 
-<figure><img src="../.gitbook/assets/QQ_1732219022501.png" alt="" width="375"><figcaption><p>提交成功后如图</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/QQ_1732219022501.png" alt="" width="188"><figcaption><p>提交成功后如图</p></figcaption></figure>
 
 如果您看到上图的列表已出现刚刚提交的工单，则说明您的工单已经提交成功。工单状态改变时，左上角的tag也会相应变化，具体状态如下：
 
