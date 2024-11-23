@@ -12,11 +12,11 @@
 ## 报修系统 <a href="#repair" id="repair"></a>
 
 * [报修系统简介](repair/info.md)
-* [工单结束流程](repair/gong-dan-jie-shu-liu-cheng.md)
+* [工单结束流程](repair/howtoend.md)
 * [发起报修工单](repair/new.md)
 * [查看当前工单](repair/editticket.md)
 * [查看历史工单](repair/history.md)
-* [指定接单技术员](repair/zhi-ding-jie-dan-ji-shu-yuan.md)
+* [指定接单技术员](repair/chooseaworker.md)
 
 ## 活动系统 <a href="#event" id="event"></a>
 
